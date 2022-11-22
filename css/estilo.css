@@ -33,6 +33,7 @@ h1{
 .menu li{
 	display: inline-block;
 	text-align: center;
+	display: flex;
 }
 
 .menu li a:hover{
