@@ -28,12 +28,13 @@ h1{
 	color: white;
 	padding: 20px;
 	display: block;
+	display: flex;
 }
 
 .menu li{
 	display: inline-block;
 	text-align: center;
-	display: flex;
+	
 }
 
 .menu li a:hover{
