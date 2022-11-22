@@ -1,7 +1,11 @@
+
 body{
-	font-family: arial, helvetica;
-	background: #e8e8e8;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
 
 h1{
     margin: 50px;
